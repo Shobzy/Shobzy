@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shobzy
 - 👀 I’m interested in learning new stuffs
 - 🌱 I’m currently learning Pytest
-- 📫 How to reach me shobithashekar23@gmail.com
+- 📫 You can reach me through shobithashekar23@gmail.com
 
 <!---
 Shobzy/Shobzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
